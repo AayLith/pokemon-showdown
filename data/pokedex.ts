@@ -19812,8 +19812,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	arghonaut: {
 		num: -13,
 		name: "Arghonaut",
-		types: ["Water", "Fighting"],
-		baseStats: { hp: 105, atk: 110, def: 95, spa: 70, spd: 100, spe: 75 },
+		types: ["Fire", "Dragon"],
+		baseStats: { hp: 105, atk: 110, def: 95, spa: 170, spd: 100, spe: 175 },
 		abilities: { 0: "Unaware", H: "Technician" },
 		heightm: 1.7,
 		weightkg: 151,
